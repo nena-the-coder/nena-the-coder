@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditi Dutta  
 
 ### 🎯 Aspiring Data Analyst | Python | SQL | Power BI | ML | IoT Security  
-B.Tech CSE | IEM Kolkata  
+B.Tech EEE | IEM Kolkata  
 
 ---
 
